@@ -1,4 +1,4 @@
-### Tudo sob tranquilo. 🙅‍♀️
+### Tudo sob tranquilo. 🙅🏼‍♀️
 
 <!--
 **rphlfc/rphlfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,3 +6,15 @@
 - Website: [https://rphlfc.github.io](https://rphlfc.github.io)
 - Twitter: [https://twitter.com/rphlfc](https://twitter.com/rphlfc)
 - Youtube: [https://www.youtube.com/channel/UC7UXnCqiqsV4R9lCwKh-rwg](https://www.youtube.com/channel/UC7UXnCqiqsV4R9lCwKh-rwg)
+
+<br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/raphaelcerqueira)

@@ -16,6 +16,9 @@
 [<img align="left" alt="raphaelcerqueira | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="rphlfc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br/>
+<br/>
+
 ---
 
 ### 📺 Latest YouTube Videos

@@ -1,11 +1,11 @@
 ### Tudo sob tranquilo. 🙅🏼‍♀️
 
-- Github: [https://github.com/rphlfc][github]
-- Instagram: [https://www.instagram.com/rphlfc.dev][instagram]
-- LinkedIn: [http://www.linkedin.com/in/rphlfc][linkedin]
-- Website: [https://rphlfc.github.io][website]
-- Twitter: [https://twitter.com/rphlfc][twitter]
-- Youtube: [https://www.youtube.com/raphaelcerqueira][youtube]
+- Github: [github.com/rphlfc][github]
+- Instagram: [instagram.com/rphlfc.dev][instagram]
+- LinkedIn: [linkedin.com/in/rphlfc][linkedin]
+- Website: [rphlfc.github.io][website]
+- Twitter: [twitter.com/rphlfc][twitter]
+- Youtube: [youtube.com/raphaelcerqueira][youtube]
 
 ### Get in touch:
 

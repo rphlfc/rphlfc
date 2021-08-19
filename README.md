@@ -5,7 +5,7 @@
 - LinkedIn: [http://www.linkedin.com/in/rphlfc][linkedin]
 - Website: [https://rphlfc.github.io][website]
 - Twitter: [https://twitter.com/rphlfc][twitter]
-- Youtube: [https://www.youtube.com/channel/UC7UXnCqiqsV4R9lCwKh-rwg][youtube]
+- Youtube: [https://www.youtube.com/raphaelcerqueira][youtube]
 
 ### Get in touch:
 

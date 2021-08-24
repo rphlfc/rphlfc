@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google Play iOS App using SwiftUI - Tutorial [GeometryReader, DragGesture, Swift Package] #shorts](https://www.youtube.com/watch?v=hQ3tNdKd3os)
 - [Google Play app usando SwiftUI - Parte 3 [GeometryReader, DragGesture, Swift Package Manager]](https://www.youtube.com/watch?v=jI5fC1WNnkk)
 - [Google Play usando SwiftUI - Parte 2 - GeometryReader - Google Play App Clone](https://www.youtube.com/watch?v=Gl6mBerNCIU)
 - [Tela principal do Google Play usando SwiftUI - Google Play App Clone](https://www.youtube.com/watch?v=4U5t-IcXOMA)
 - [[SwiftUI] Popular Movies App #swift #swiftui #shorts](https://www.youtube.com/watch?v=ksDGVUz0uCA)
-- [[SwiftUI] Popular Movies App - Playing trailer from Youtube - Parte 4 - [UIViewRepresentable]](https://www.youtube.com/watch?v=Pqmp9RZFTwg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

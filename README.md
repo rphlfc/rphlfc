@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[SwiftUI] Twitter app for iOS side menu using SwiftUI - Slide to open/close [Drag gesture]](https://www.youtube.com/watch?v=5e98-tKkZmI)
 - [[SwiftUI] Center on tap tab bar - Blog App Design from Dribbble - Parte 2 [Swift Package Manager]](https://www.youtube.com/watch?v=hV6TV8w_ALU)
 - [[SwiftUI] Hide top view on scroll - Blog App Dribbble Design](https://www.youtube.com/watch?v=DcyCUUodw1Y)
 - [Google Play iOS App using SwiftUI - Tutorial [GeometryReader, DragGesture, Swift Package] #shorts](https://www.youtube.com/watch?v=hQ3tNdKd3os)
 - [Google Play app usando SwiftUI - Parte 3 [GeometryReader, DragGesture, Swift Package Manager]](https://www.youtube.com/watch?v=jI5fC1WNnkk)
-- [Google Play usando SwiftUI - Parte 2 - GeometryReader - Google Play App Clone](https://www.youtube.com/watch?v=Gl6mBerNCIU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

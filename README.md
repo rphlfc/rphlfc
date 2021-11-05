@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sticky Header usando SwiftUI #shorts](https://www.youtube.com/watch?v=IAk-bnzXaYo)
+- [Sticky Header usando SwiftUI - @ViewBuilder](https://www.youtube.com/watch?v=1qmeP3yjWyM)
 - [Localization and handling plurals with SwiftUI - Twitter App for iOS - Twitter UI](https://www.youtube.com/watch?v=lDp8jGBMsE8)
 - [[SwiftUI] Twitter app for iOS side menu using SwiftUI - Slide to open/close [Drag gesture]](https://www.youtube.com/watch?v=5e98-tKkZmI)
 - [[SwiftUI] Center on tap tab bar - Blog App Design from Dribbble - Parte 2 [Swift Package Manager]](https://www.youtube.com/watch?v=hV6TV8w_ALU)
-- [[SwiftUI] Hide top view on scroll - Blog App Dribbble Design](https://www.youtube.com/watch?v=DcyCUUodw1Y)
-- [Google Play iOS App using SwiftUI - Tutorial [GeometryReader, DragGesture, Swift Package] #shorts](https://www.youtube.com/watch?v=hQ3tNdKd3os)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

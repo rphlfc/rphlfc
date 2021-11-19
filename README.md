@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SwiftUI NFT App - OpenSea iOS app tab bar using SwiftUI - MatchedGeometryEffect and Mask modifiers](https://www.youtube.com/watch?v=umkF4rdVpJE)
 - [Telegram redesign using SwiftUI - Design from @uibydivi - Dark/Light mode and custom tab. #shorts](https://www.youtube.com/watch?v=shOCCmMXwNI)
 - [Telegram app redesign concept using SwiftUI [Custom Tab Bar, Light Mode, Dark Mode]](https://www.youtube.com/watch?v=TsaJL9QLIdQ)
 - [Sticky Header usando SwiftUI #shorts](https://www.youtube.com/watch?v=IAk-bnzXaYo)
 - [Sticky Header usando SwiftUI - @ViewBuilder - Swift Package](https://www.youtube.com/watch?v=1qmeP3yjWyM)
-- [Localization and handling plurals with SwiftUI - Twitter App for iOS - Twitter UI](https://www.youtube.com/watch?v=lDp8jGBMsE8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
